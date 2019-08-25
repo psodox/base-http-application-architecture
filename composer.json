@@ -1,6 +1,6 @@
 {
-    "name": "psodox/http-core",
-    "description": "Wrapper for http application based on PHP using PSR",
+    "name": "psodox/base-http-application-architecture",
+    "description": "Wrapper for http applications based on PHP using PSR",
     "type": "metapacke",
     "require": {
         "psr/container": "^1.0",
