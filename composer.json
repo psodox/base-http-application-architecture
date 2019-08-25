@@ -1,0 +1,16 @@
+{
+    "name": "psodox/http-core",
+    "description": "Wrapper for http application based on PHP using PSR",
+    "type": "metapacke",
+    "require": {
+        "psr/container": "^1.0",
+        "psr/http-message": "^1.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Denny Brandes",
+            "email": "info@pixel-pro.de"
+        }
+    ]
+}
